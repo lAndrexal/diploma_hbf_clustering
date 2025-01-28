@@ -1,0 +1,9 @@
+*.asv
+*.pickle
+*.pkl
+.\datasets
+.venv
+*.zip
+*.mat
+.DS_Store
+*.pyc
